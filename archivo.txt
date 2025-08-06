@@ -1,1 +1,1 @@
-Archivo de la rama main
+Archivo de la rama main, modificado para conflictos
