@@ -1,1 +1,3 @@
 Archivo de la rama main, modificado para conflictos (main)
+Archivo de la rama main,
+agrego un cambio en rama
